@@ -1,11 +1,6 @@
 # CMGP-CoSOD
 This repository contains the code for our COSOD paper.
 
-# Datasets
-train datasets：COCO-SEG and DUTS_CLASS         
-test datasets:CoCA, CoSOD3k and Cosal2015
-Test datasets can be downloaded from https://pan.baidu.com/s/1DAUY3YGMb5cTDCXIPYlcwA?pwd=qxxj
-Saliency maps can be downloaded from https://pan.baidu.com/s/1Yl2nRULP6GGe8gd_n15rYQ?pwd=mv79
 # Environment Configuration
 Linux with Python ≥ 3.8
 
@@ -17,3 +12,14 @@ pytorch_wavelets
 
 mamba_ssm
 
+# Datasets
+Train datasets：COCO-SEG and DUTS_CLASS         
+
+Test datasets:CoCA, CoSOD3k and Cosal2015
+
+Test datasets can be downloaded from https://pan.baidu.com/s/1DAUY3YGMb5cTDCXIPYlcwA?pwd=qxxj
+
+Saliency maps can be downloaded from https://pan.baidu.com/s/1Yl2nRULP6GGe8gd_n15rYQ?pwd=mv79
+
+# Contact
+If you have any questions，please feel free to send e-mails to me at logli1588@163.com
