@@ -22,4 +22,4 @@ Test datasets can be downloaded from https://pan.baidu.com/s/1DAUY3YGMb5cTDCXIPY
 Saliency maps can be downloaded from https://pan.baidu.com/s/1Yl2nRULP6GGe8gd_n15rYQ?pwd=mv79
 
 # Contact
-If you have any questions，please feel free to send e-mails to me at logli1588@163.com
+If you have any question，please feel free to send e-mails to me at logli1588@163.com
