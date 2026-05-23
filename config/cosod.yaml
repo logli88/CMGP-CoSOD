@@ -1,0 +1,15 @@
+MODEL:
+  NAME: CoSOD
+  ENCODER:
+    NAME: ['conv1_2', 'conv2_2', 'conv3_3', 'conv4_3', 'conv5_3']
+    CHANNEL: [64, 128, 256, 512, 512]
+    STRIDE: [1, 2, 4, 8, 8]
+  DASPP:
+    ADAP_CHANNEL: 512
+    DILATIONS: [2, 4, 8]
+  COFORMER_DECODER:
+    HIDDEN_DIM: 256
+    DROP_PATH: 0.1
+    NUM_HEADS: 8
+    FEEDFORWARD_DIM: 512
+    FFN_EXP: 3
