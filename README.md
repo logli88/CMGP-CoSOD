@@ -1,4 +1,4 @@
-# MaPR-CoSOD
+# -CoSOD
 This repository contains the code for our COSOD paper.
 # Datasets
 train:COCO-SEG and DUTS-CLASS  
