@@ -12,7 +12,9 @@ pytorch_wavelets
 
 mamba_ssm
 
-# Datasets
+# Pretrained model and Datasets
+Pretrained model can be downloaded from https://pan.baidu.com/s/1b9dUI25JZNOlwGAXNVu0dQ?pwd=ni25
+
 Train datasets：COCO-SEG and DUTS_CLASS         
 
 Test datasets:CoCA, CoSOD3k and Cosal2015
